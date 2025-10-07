@@ -24,7 +24,9 @@ We welcome contributions! Here's how:
 - Follow this format:
    - Problem: Reverse a string
    - Author: Your Name
-
+  
+  def reverse_string(s):
+      return s[::-1]
 ---
 
 **🚀 Contribution Steps**

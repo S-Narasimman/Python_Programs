@@ -22,8 +22,8 @@ We welcome contributions! Here's how:
 
 - Create a new .py file inside the appropriate folder.
 - Follow this format:
-  # Problem: Reverse a string
-  # Author: Your Name
+   -Problem: Reverse a string
+   -Author: Your Name
 
 ---
 

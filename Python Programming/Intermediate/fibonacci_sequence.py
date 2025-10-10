@@ -1,3 +1,6 @@
+# Fibonacci sequence generator
+# By Shantanu Das
+
 def fibonacci_seq(terms):
 
     """
